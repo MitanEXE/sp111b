@@ -18,7 +18,8 @@ Image selector that I made will be not like a classic Image Selector that had mi
 
 Create a New Windows Form, and you can give any name for your file. For my file, I named it "Form1.cs".
 and then, do drag & drop the item to make the Window Form like this image below.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
+![Form1.cs Image](https://raw.githubusercontent.com/MitanEXE/sp111b/main/Final/image.png "Form1.cs Image")
 
 ```sh
 using System;
